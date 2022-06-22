@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "jODTHGkMgO/rRYDZ+Jcvvga/I5em+5Rnr2GLOkT2GVc2SsLGwAnIYY9+TdsLomC1aubp9THu1Kxrq9w6NkZMCA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\Desktop\\rasber\\rasber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\runtime.any.system.runtime\\4.3.0\\runtime.any.system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\runtime.any.system.threading.tasks\\4.3.0\\runtime.any.system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\runtime.native.system\\4.3.0\\runtime.native.system.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\runtime.unix.system.private.uri\\4.3.0\\runtime.unix.system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.device.gpio\\2.1.0\\system.device.gpio.2.1.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.private.uri\\4.3.0\\system.private.uri.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\6.0.5\\microsoft.netcore.app.runtime.linux-arm.6.0.5.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\6.0.5\\microsoft.aspnetcore.app.runtime.linux-arm.6.0.5.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\6.0.5\\microsoft.netcore.app.host.linux-arm.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
